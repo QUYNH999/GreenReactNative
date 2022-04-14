@@ -75,7 +75,7 @@ const Styles = StyleSheet.create({
         textAlign: 'center',
         lineHeight: 18
     }
-
+sdhfcyagfciab
 })
 
 export default Styles
